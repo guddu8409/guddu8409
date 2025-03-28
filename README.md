@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **guddu8409/guddu8409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi there! I'm <strong>Guddu Kumar</strong>
+</h1>
 
+<p align="center">
+  🚀 Passionate about <strong>Web Development</strong>, <strong>Tech</strong>, and <strong>Problem Solving</strong> <br>
+  💻 Exploring <strong>MERN Stack, DSA, and CS Fundamentals</strong> <br>
+  📫 Reach me at <strong>guddukumar778186@gmail.com</strong>
+</p>
 
-
-# Hi there! 👋 I'm Guddu Kumar
 
 ## 🚀 About Me
 
@@ -30,43 +35,96 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-%23D24726.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+### 🚀 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+</p>
 
----
+<!-- ### ⚙️ Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
+-->
+
+### 🖥️ Programming Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+</p>
+
+### 🎨 Design & Media
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40"/>
+</p>
+
+
+## 🌎 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guddu8409&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+
 
 ## 📌 Featured Projects
 
-### 🎯 [Mentor Connect - Mentorship & Skill Development Platform](https://github.com/your-repo-link)
+### 🎯 Mentor Connect - Mentorship & Skill Development Platform
 - 🏆 **SIH 2024 Winning Project**
 - 🔹 **Role-based authentication (Mentor, Mentee, Admin)**
 - 🔹 **Dynamic scheduling for mentor-mentee interactions**
 - 🔹 **Job referrals, groups, chat, and donation features**
 - 🚀 Built with **HTML, CSS, JS, React, Node.js, MongoDB**
 
-🔗 **More Projects:** [Check My Repositories](https://github.com/guddu8409/)
+🔗 **More Projects:** [Check My Repositories](https://github.com/guddu8409?tab=repositories)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Guddu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical)
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guddu8409&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddu8409&layout=compact&theme=radical" height="180px"/>
+</div>
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guddukumar778186@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/guddukr8409/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  <a href="https://github.com/guddu8409" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  </a>
+  <a href="mailto:guddukumar778186@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40"/>
+  </a>
+</p>
+
+
+
 
 💡 **"Code, Innovate, Inspire!"** 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Thank+You+for+visiting!;Happy+Coding+😊" />
+</p>
+
+
 
