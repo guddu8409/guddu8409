@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 🎓 3rd-year CSBS student at **Heritage Institute of Technology, Kolkata**
+- 🎓 4th-year CSBS student at **Heritage Institute of Technology, Kolkata**
 - 🏆 **Winner of Smart India Hackathon (SIH) 2024**
 - 💡 Passionate about **frontend development, problem-solving, and tech innovations**
 - 🔥 Currently improving **DSA, CS fundamentals, and aptitude** for career preparation
