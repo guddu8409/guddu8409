@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 🎓 4th-year CSBS student at **Heritage Institute of Technology, Kolkata**
+- 🎓 **Computer Science & Business Systems (CSBS) Graduate** from **Heritage Institute of Technology, Kolkata**
 - 🏆 **Winner of Smart India Hackathon (SIH) 2024**
-- 💡 Passionate about **frontend development, problem-solving, and tech innovations**
-- 🔥 Currently improving **DSA, CS fundamentals, and aptitude** for career preparation
+- 💡 Passionate about **frontend development, problem-solving, and building impactful tech solutions**
+- 🚀 Currently exploring **MERN Stack, DSA, and CS fundamentals** while preparing for exciting career opportunities
 
 ---
 
